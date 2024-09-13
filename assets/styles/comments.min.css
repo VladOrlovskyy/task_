@@ -1,0 +1,48 @@
+.comments_face * {
+    font-family: 'Roboto', sans-serif !important;
+}
+.comments_face {
+    background-color: #fff;
+    font-size: 14px;
+}
+.comments_face .comments {
+    background-color: #eeeff4;
+    border-bottom: 2px solid #fff;
+    padding: 10px;
+}
+.comments_face .profile {
+    float: left;
+    width: 60px;
+    margin-right: 10px;
+}
+.comments_face .profile img,
+.comments_face .comment-content img,
+.comment-status img {
+
+    margin: 0 auto;
+}
+.comments_face .comment-content {
+    padding-left: 70px;
+}
+.comments_face .name,
+.comments_face .comment-status span {
+    color: #3b5998;
+    font-weight: 700;
+    margin: 0;
+}
+.comments_face .button,
+.comments_face .name,
+.comments_face .profile,
+.comments_face .comment-status {
+    cursor: pointer;
+}
+.comments_face .comment-status {
+    font-size: 11px;
+}
+.comments_face .button,
+.comments_face .main-content span {
+    color: red;
+}
+.comments_face .clr {
+    clear: both;
+}
